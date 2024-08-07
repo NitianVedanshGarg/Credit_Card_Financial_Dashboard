@@ -13,8 +13,9 @@ on dashboard findings to support decision-making
 processes
 
 Project Insights for Week 52
+
  WoW change: 
-• Revenue decreased by 12.8%, 
+ • Revenue decreased by 12.8%, 
 • Total Transaction Amt decreased by 13.47%
 
  Overview YTD:
